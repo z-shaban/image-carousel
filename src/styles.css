@@ -1,0 +1,43 @@
+*{
+   height: 100%;
+    box-sizing: border-box;
+    
+}
+
+body{
+    display: flex;
+   justify-self: center;
+}
+
+.container{
+    display: flex;
+    width: 1200px;
+}
+
+.picture{
+    width: 300px;
+}
+
+.pictureframe{
+    width: 300px;
+   overflow: hidden;
+}
+.dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.dot {
+    width: 15px;
+    height: 15px;
+    margin: 5px;
+    background-color: gray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.dot.active {
+    background-color: black;
+}

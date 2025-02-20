@@ -74,3 +74,8 @@ Feel free to submit issues and pull requests!
 ## 📜 License
 
 This project is licensed under the MIT License.
+
+Photo by <a href="https://unsplash.com/@kalaniparker?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kellen Riggin</a> on <a href="https://unsplash.com/photos/a-city-street-with-cars-parked-on-the-side-of-it-R0koxVFGd3I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Photo by <a href="https://unsplash.com/@framethestreets?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Felix Xu</a> on <a href="https://unsplash.com/photos/a-street-corner-with-a-building-and-a-traffic-light-nkNBmG1AuO0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Photo by <a href="https://unsplash.com/@lucasgallone?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Lucas Gallone</a> on <a href="https://unsplash.com/photos/a-close-up-of-a-building-with-a-lot-of-windows-herhXbdBznY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Photo by <a href="https://unsplash.com/@lucasgallone?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Lucas Gallone</a> on <a href="https://unsplash.com/photos/a-close-up-of-a-building-with-a-lot-of-windows-herhXbdBznY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
